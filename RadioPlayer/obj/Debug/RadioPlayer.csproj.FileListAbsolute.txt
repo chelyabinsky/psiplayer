@@ -1,0 +1,173 @@
+c:\users\tadas\documents\visual studio 2012\Projects\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.config
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.ResolveComReference.cache
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Form1.resources
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Properties.Resources.resources
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\Tadas\Documents\Visual Studio 2012\Projects\RadioPlayer\RadioPlayer\bin\Debug\CSCore.dll
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.config
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.ResolveComReference.cache
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Form1.resources
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Properties.Resources.resources
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\bin\Debug\taglib-sharp.dll
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\bin\Debug\lastfm-sharp.dll
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.LastFmInfo.resources
+C:\Users\aliejus\Desktop\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.ShowTags.resources
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.config
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.ResolveComReference.cache
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Form1.resources
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.LastFmInfo.resources
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Properties.Resources.resources
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.ShowTags.resources
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
+C:\Users\Margiriss\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.config
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.ResolveComReference.cache
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Form1.resources
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.LastFmInfo.resources
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Properties.Resources.resources
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.ShowTags.resources
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\Twitterizer2.Asynchronous.dll
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\Twitterizer2.dll
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\Tadas\Desktop\10740802_899478973396949_1506375010_n\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.RadioForm.resources
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.config
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.ResolveComReference.cache
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Form1.resources
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.LastFmInfo.resources
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Properties.Resources.resources
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.RadioForm.resources
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.ShowTags.resources
+C:\Users\Margiriss\Desktop\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.config
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.ResolveComReference.cache
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\bin\Debug\CSCore.dll
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Form1.resources
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.LastFmInfo.resources
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Properties.Resources.resources
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.RadioForm.resources
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.ShowTags.resources
+C:\Users\Tadas\Desktop\cia tikrai paskutinis\Galutinis playeris\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.config
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.ResolveComReference.cache
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Form1.resources
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.LastFmInfo.resources
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Properties.Resources.resources
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.RadioForm.resources
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.ShowTags.resources
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.manifest
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.application
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe.manifest
+C:\Users\Margiriss\Desktop\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.application
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.config
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.ResolveComReference.cache
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.manifest
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.application
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Form1.resources
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.LastFmInfo.resources
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Properties.Resources.resources
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.RadioForm.resources
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.ShowTags.resources
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe.manifest
+C:\Users\Margiriss\Desktop\psi\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.application
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.config
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.ResolveComReference.cache
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe.manifest
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.application
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.exe
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Form1.resources
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.LastFmInfo.resources
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.Properties.Resources.resources
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.RadioForm.resources
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.ShowTags.resources
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.exe.manifest
+C:\Users\mint\Downloads\psi muzikos grotuvas\psi muzikos grotuvas\Muzikos grotuvas\PSI 3 labor. Muzikos grotuvas\RadioPlayer\RadioPlayer\obj\Debug\RadioPlayer.application
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\bin\Debug\RadioPlayer.exe.config
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.ResolveComReference.cache
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.exe
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.pdb
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.Form1.resources
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.LastFmInfo.resources
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.Properties.Resources.resources
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.RadioForm.resources
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.ShowTags.resources
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\bin\Debug\RadioPlayer.exe.manifest
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\bin\Debug\RadioPlayer.application
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\bin\Debug\RadioPlayer.exe
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\bin\Debug\RadioPlayer.pdb
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.exe.manifest
+C:\Users\mint\Documents\GitHub\psiplayer\RadioPlayer\obj\Debug\RadioPlayer.application

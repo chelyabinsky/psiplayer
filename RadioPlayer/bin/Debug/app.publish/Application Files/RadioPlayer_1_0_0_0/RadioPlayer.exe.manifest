@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="RadioPlayer.exe" version="1.0.0.0" publicKeyToken="c81ee1c5ba6c0e23" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RadioPlayer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="RadioPlayer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSCore.dll" size="467968">
+      <assemblyIdentity name="CSCore" version="1.0.0.2" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>oqAnDHcjaj58RF95fN1yhLYoRsgpWy4tPHe7nJpV89I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="lastfm-sharp.dll" size="90624">
+      <assemblyIdentity name="lastfm-sharp" version="0.1.10.39897" publicKeyToken="AC974B34236B3339" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>68bJtZk1Q3L34tB6aHGOLLndjtA0PzlPnNZ3mNtaQaI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="407776">
+      <assemblyIdentity name="Newtonsoft.Json" version="4.5.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>l3mYrsSGOV6rps5WYWSEJaGhgc4Ywsh8YoivYrh9Xso=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="policy.2.0.taglib-sharp.dll" size="3072">
+      <assemblyIdentity name="policy.2.0.taglib-sharp" version="0.0.0.0" publicKeyToken="DB62EBA44689B5B0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5NE7a3v2CdQ0sQx6u+RFtq+ua500tujNccDuvhxrr34=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RadioPlayer.exe" size="81408">
+      <assemblyIdentity name="RadioPlayer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>x0B5c6OjS1QYTx0G4R8K4rj2tHW6BP8S7q85YcpYuCI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="taglib-sharp.dll" size="443392">
+      <assemblyIdentity name="taglib-sharp" version="2.1.0.0" publicKeyToken="DB62EBA44689B5B0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>iuCVedAthcrHWIW2RUfcEpQOm58u5B0cRh9ZkIRQcYg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Twitterizer2.dll" size="171008">
+      <assemblyIdentity name="Twitterizer2" version="2.4.2.36676" publicKeyToken="69D1469EAC671567" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>DVD/AvkZNbYThN5TXcGkuHh9Qge+25pHKNokb4Y9aFA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Twitterizer2.Asynchronous.dll" size="31744">
+      <assemblyIdentity name="Twitterizer2.Asynchronous" version="2.4.2.36677" publicKeyToken="69D1469EAC671567" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>41FNtyDsLz4R73EQA0lpH0XXw+ZgexQ5Njax42YFppU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Twitterizer2.Streaming.dll" size="19968">
+      <assemblyIdentity name="Twitterizer2.Streaming" version="2.4.2.36677" publicKeyToken="69D1469EAC671567" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>LRSKFxnj6XgE8dAPRuecOaHN95XsK+ByTklsrOts/Oc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="libzplay.dll" size="2240512">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fnow7FSy5ucdsrUTTRfO16wp9QlNBWxKwXbBKG5TZaA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="RadioPlayer.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MARGIRIS-PC\Margiriss" issuerKeyHash="15325c882db38c63333b5c86188322709261cce2" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Rd851DNQLrAhTMAdG+X6lOWc1CyJa85hjXefdWm1zfY=</DigestValue></Reference></SignedInfo><SignatureValue>TSa2fSV7buS7ge6KwGZ2ONW8PQJfnRS0S+D8rmysmpFE58O/jwg+L1ITE+lL7o8sQiLQGhEznX6/HguTsbE3kmu7PCAFzJAavL72EisD4gceiyIbMniavrg1ua7XCAtDb74RR/x8yxFxRiZWqhFwdd9rTg2DsCOro88KKp7RGOQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0xnpt3NQzQLcnn3Z36F6zqXoRc9J0EQlCYS1t5OYTGxc07YJlP6sdPzDA/lwdKlvJXk8LXdfnqRqha7h9RVe9YeUksbUTKc0Gs3WtZgT3La5Ruo2wZfpGEX9Qd25WINja8tG/1Z2y0ylMg23iiuoNsXSnc/Ugxz5k+Bu5YOFQ4c=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f6cdb569759f778d61ce6b892cd49ce594fae51b1dc04c21b02e5033d439df45" Description="" Url=""><as:assemblyIdentity name="RadioPlayer.exe" version="1.0.0.0" publicKeyToken="c81ee1c5ba6c0e23" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MARGIRIS-PC\Margiriss</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>k5DmfWa2I0U4sCVfykxGzmNEEYijP4ctIbrNH+mJz20=</DigestValue></Reference></SignedInfo><SignatureValue>QQHLFbFEpFrWQXb/Uu88qqBx84G4ijF4OiWb42iTRFE8KR9wVsmac125D58bYlCsgHnQ6bNQ/xQ0TjJE3rgGH7hSM3hakcK0MMq2jopKF9886ygG4Bt9TsDqQzGEdpltczNxpDL3qI3fLSARFKV305s4sWFcEn3IuLwufH04t/o=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0xnpt3NQzQLcnn3Z36F6zqXoRc9J0EQlCYS1t5OYTGxc07YJlP6sdPzDA/lwdKlvJXk8LXdfnqRqha7h9RVe9YeUksbUTKc0Gs3WtZgT3La5Ruo2wZfpGEX9Qd25WINja8tG/1Z2y0ylMg23iiuoNsXSnc/Ugxz5k+Bu5YOFQ4c=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQPN7Yfi/t6ZxHVuMloC4KTzANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioATQBBAFIARwBJAFIASQBTAC0AUABDAFwATQBhAHIAZwBpAHIAaQBzAHMwHhcNMTQxMjE4MTY1OTQ2WhcNMTUxMjE4MjI1OTQ2WjA1MTMwMQYDVQQDHioATQBBAFIARwBJAFIASQBTAC0AUABDAFwATQBhAHIAZwBpAHIAaQBzAHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANMZ6bdzUM0C3J592d+hes6l6EXPSdBEJQmEtbeTmExsXNO2CZT+rHT8wwP5cHSpbyV5PC13X56kaoWu4fUVXvWHlJLG1EynNBrN1rWYE9y2uUbqNsGX6RhF/UHduViDY2vLRv9WdstMpTINt4orqDbF0p3P1IMc+ZPgbuWDhUOHAgMBAAEwDQYJKoZIhvcNAQELBQADgYEATnYMfftpMRgz+GWh20FbXEECuQT4KnfwrxXx//f48qba2MtciRphkY3syEWEJCMRDlbEhzoTpUHx2hDHZlXFO2A9Z90Eo6rLbwQs6spJo8ZpR5Gw/pKzoc59la3eQXh8+jX1a0DeFmzvJYwq1Le/l5XF/TjTypVWnUm2fu7hdaY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
