@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Windows.Forms;
 using Lastfm.Services;
+using RadioPlayer.DataAccess;
 
 namespace RadioPlayer
 {
@@ -327,18 +328,24 @@ namespace RadioPlayer
 			openFileDialog.Multiselect = true;
 			if (openFileDialog.ShowDialog() == DialogResult.OK)
 			{
-				foreach (string path in openFileDialog.FileNames)
+				using (PsiPlayerDbContext context = new PsiPlayerDbContext())
 				{
-					AudioFile song = new AudioFile(path);
-					activePL.Songs.Add(song);
-					if (song.Length.Seconds < 10)
+					foreach (string path in openFileDialog.FileNames)
 					{
-						listBox1.Items.Add(String.Format("{0}:0{1} --- {2} - {3}", song.Length.Minutes, song.Length.Seconds, song.Artist, song.Title));
+						AudioFile song = new AudioFile(path);
+						activePL.Songs.Add(song);
+						context.Songs.Add(song);
+						
+						if (song.Length.Seconds < 10)
+						{
+							listBox1.Items.Add(String.Format("{0}:0{1} --- {2} - {3}", song.Length.Minutes, song.Length.Seconds, song.Artist, song.Title));
+						}
+						else
+						{
+							listBox1.Items.Add(String.Format("{0}:{1} --- {2} - {3}", song.Length.Minutes, song.Length.Seconds, song.Artist, song.Title));
+						}
 					}
-					else
-					{
-						listBox1.Items.Add(String.Format("{0}:{1} --- {2} - {3}", song.Length.Minutes, song.Length.Seconds, song.Artist, song.Title));
-					}
+					context.SaveChanges();
 				}
 			}
 		}
@@ -432,6 +439,12 @@ namespace RadioPlayer
 			player.Stop();
 			RadioForm radio = new RadioForm();
 			radio.ShowDialog();
+		}
+
+		private void button2_Click(object sender, EventArgs e)
+		{
+			LibraryForm lib = new LibraryForm();
+			lib.ShowDialog();
 		}
 
 	}

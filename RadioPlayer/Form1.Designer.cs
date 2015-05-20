@@ -67,6 +67,7 @@ namespace RadioPlayer
 			this.label11 = new System.Windows.Forms.Label();
 			this.label12 = new System.Windows.Forms.Label();
 			this.radioButton = new System.Windows.Forms.Button();
+			this.button2 = new System.Windows.Forms.Button();
 			this.backwardButton = new System.Windows.Forms.Button();
 			this.forwardButton = new System.Windows.Forms.Button();
 			this.stopButton = new System.Windows.Forms.Button();
@@ -262,7 +263,7 @@ namespace RadioPlayer
             this.removeTrackToolStripMenuItem,
             this.showTagsToolStripMenuItem});
 			this.contextMenuStrip1.Name = "contextMenuStrip1";
-			this.contextMenuStrip1.Size = new System.Drawing.Size(156, 114);
+			this.contextMenuStrip1.Size = new System.Drawing.Size(156, 92);
 			this.contextMenuStrip1.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip1_Opening);
 			// 
 			// GetAlbumInfo
@@ -413,6 +414,16 @@ namespace RadioPlayer
 			this.radioButton.UseVisualStyleBackColor = true;
 			this.radioButton.Click += new System.EventHandler(this.radioButton_Click);
 			// 
+			// button2
+			// 
+			this.button2.Location = new System.Drawing.Point(501, 222);
+			this.button2.Name = "button2";
+			this.button2.Size = new System.Drawing.Size(75, 23);
+			this.button2.TabIndex = 36;
+			this.button2.Text = "Library";
+			this.button2.UseVisualStyleBackColor = true;
+			this.button2.Click += new System.EventHandler(this.button2_Click);
+			// 
 			// backwardButton
 			// 
 			this.backwardButton.BackgroundImage = global::RadioPlayer.Properties.Resources.backward;
@@ -475,6 +486,7 @@ namespace RadioPlayer
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
 			this.ClientSize = new System.Drawing.Size(587, 366);
+			this.Controls.Add(this.button2);
 			this.Controls.Add(this.radioButton);
 			this.Controls.Add(this.label12);
 			this.Controls.Add(this.label11);
@@ -562,6 +574,7 @@ namespace RadioPlayer
 		private Label label11;
 		private Label label12;
 		private Button radioButton;
+		private Button button2;
 	}
 }
 

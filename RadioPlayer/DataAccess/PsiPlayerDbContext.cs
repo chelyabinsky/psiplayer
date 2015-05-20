@@ -1,14 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.Entity;
 
 namespace RadioPlayer.DataAccess
 {
-//	class PsiPlayerDbContext : DbContext
-//	{
-//	}
-//
+	public class PsiPlayerDbContext : DbContext
+	{
+		public DbSet<AudioFile> Songs { get; set; }
+	}
+
 }

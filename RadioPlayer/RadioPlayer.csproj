@@ -63,6 +63,13 @@
     <Reference Include="CSCore">
       <HintPath>..\..\..\..\..\Desktop\CSCore.dll</HintPath>
     </Reference>
+    <Reference Include="EntityFramework, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="lastfm-sharp">
       <HintPath>..\..\..\Downloads\lastfm-sharp.dll</HintPath>
     </Reference>
@@ -114,6 +121,12 @@
       <DependentUpon>LastFmInfo.cs</DependentUpon>
     </Compile>
     <Compile Include="LastFmWrapper.cs" />
+    <Compile Include="LibraryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibraryForm.Designer.cs">
+      <DependentUpon>LibraryForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="libZPlay.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Playlist.cs" />
@@ -138,6 +151,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="LastFmInfo.resx">
       <DependentUpon>LastFmInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibraryForm.resx">
+      <DependentUpon>LibraryForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
