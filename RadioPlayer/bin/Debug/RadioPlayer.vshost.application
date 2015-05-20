@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="RadioPlayer.exe.manifest" size="10713">
+    <dependentAssembly dependencyType="install" codebase="RadioPlayer.exe.manifest" size="12010">
       <assemblyIdentity name="RadioPlayer.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>vyvvzUr+m9dl2Yr8RZBDZfwaO9bWoJx0VGLSu8vdV8c=</dsig:DigestValue>
+        <dsig:DigestValue>2P/J9PNlB8TcM1CKi5f78GvnB8CYMS5wR3U25gUMF6s=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

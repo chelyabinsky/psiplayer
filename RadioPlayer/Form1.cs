@@ -324,10 +324,20 @@ namespace RadioPlayer
 		private void AddFiles_Click(object sender, EventArgs e)
 		{
 			OpenFileDialog openFileDialog = new OpenFileDialog();
-			openFileDialog.Filter = "mp3 Files (*mp3)|*.mp3";
+			openFileDialog.Filter = "mp3 Files (*mp3), AVI Files (*avi)|*.mp3; *.wmv";
 			openFileDialog.Multiselect = true;
 			if (openFileDialog.ShowDialog() == DialogResult.OK)
 			{
+				foreach (var item in openFileDialog.FileNames)
+				{
+					if (item.Contains(".wmv"));
+					{
+						VideoPlayerForm form = new VideoPlayerForm(item);
+						form.ShowDialog();
+						return;
+					}
+				}
+				
 				using (PsiPlayerDbContext context = new PsiPlayerDbContext())
 				{
 					foreach (string path in openFileDialog.FileNames)
