@@ -19,13 +19,15 @@ namespace RadioPlayer
 		}
 
 		public VideoPlayerForm(string path)
-			: base()
+			: this()
 		{
 			_path = path;
 		}
 		private void VideoPlayerForm_Load(object sender, EventArgs e)
 		{
+			
 			axWindowsMediaPlayer1.URL = _path;
+			//axWindowsMediaPlayer1.Ctlcontrols.play();
 		}
 	}
 }
