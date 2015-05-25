@@ -330,7 +330,7 @@ namespace RadioPlayer
 			{
 				foreach (var item in openFileDialog.FileNames)
 				{
-					if (item.Contains(".wmv"));
+					if (item.Contains(".wmv"))
 					{
 						VideoPlayerForm form = new VideoPlayerForm(item);
 						form.ShowDialog();
